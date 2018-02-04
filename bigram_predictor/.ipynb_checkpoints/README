@@ -1,0 +1,7 @@
+-To run the program use:
+ python <path_to_corpus_file> '<sentence1>' '<sentence2>'
+-Assumptions:
+	1. Post-processed text is removed of all symbols.
+	2. All words like "Apple's" have been brought to root form "Apple"
+	3. Each sentence starts with <s> and ends with <\s>. This is to make sure that
+		the start and end of sentences have probabilities
