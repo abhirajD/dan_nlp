@@ -1,4 +1,4 @@
-guage Model - Prediction 
+# Language Model - Prediction 
 ### Bigram Model and smoothing
 
 Hola, People! 
